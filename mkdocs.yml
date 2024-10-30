@@ -1,0 +1,7 @@
+site_name: kjst seminar
+
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
